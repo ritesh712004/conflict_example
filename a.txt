@@ -1,8 +1,6 @@
 hello
 my name 
-<<<<<<< HEAD
 is 
 suresh
-=======
 is Ritesh
->>>>>>> 16b2ed376e5f352b5cb3377a51bd2335581e0e52
+
